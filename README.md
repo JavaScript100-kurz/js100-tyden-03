@@ -1,1 +1,3 @@
-# js100-tyden-03
+# Týden 3
+
+Podklady pro 3. týden kurzu JavaScript100.
